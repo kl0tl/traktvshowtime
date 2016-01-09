@@ -1,0 +1,19 @@
+{
+  "name": "traktvshowtime",
+  "description": "Automatically sync TVShowTime with your Trakt.tv history",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kl0tl/traktvshowtime.git"
+  },
+  "author": "Cyril Sobierajewicz <sobierajewicz.cyril@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kl0tl/traktvshowtime/issues"
+  },
+  "homepage": "https://github.com/Kl0tl/traktvshowtime#readme"
+}
