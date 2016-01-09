@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Kl0tl/traktvshowtime/issues"
   },
-  "homepage": "https://github.com/Kl0tl/traktvshowtime#readme"
+  "homepage": "https://github.com/Kl0tl/traktvshowtime#readme",
+  "devDependencies": {
+    "babel-cli": "^6.4.0"
+  }
 }
