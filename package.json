@@ -16,6 +16,9 @@
     "url": "https://github.com/Kl0tl/traktvshowtime/issues"
   },
   "homepage": "https://github.com/Kl0tl/traktvshowtime#readme",
+  "dependencies": {
+    "node-fetch": "^1.3.3"
+  },
   "devDependencies": {
     "babel-cli": "^6.4.0"
   }
