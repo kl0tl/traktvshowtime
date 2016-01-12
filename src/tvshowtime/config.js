@@ -1,0 +1,11 @@
+const {
+  TVSHOWTIME_API_URL,
+  TVSHOWTIME_CLIENT_ID,
+  TVSHOWTIME_CLIENT_SECRET
+} = process.env;
+
+export {
+  TVSHOWTIME_API_URL as url,
+  TVSHOWTIME_CLIENT_ID as key,
+  TVSHOWTIME_CLIENT_SECRET as secret
+};
